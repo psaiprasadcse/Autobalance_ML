@@ -1,0 +1,21 @@
+Column,Original Value,Encoded Value
+ane,no,0
+ane,yes,1
+ba,notpresent,0
+ba,present,1
+pe,no,0
+pe,yes,1
+appet,good,0
+appet,poor,1
+pc,abnormal,0
+pc,normal,1
+rbc,abnormal,0
+rbc,normal,1
+dm,no,0
+dm,yes,1
+htn,no,0
+htn,yes,1
+cad,no,0
+cad,yes,1
+pcc,notpresent,0
+pcc,present,1
